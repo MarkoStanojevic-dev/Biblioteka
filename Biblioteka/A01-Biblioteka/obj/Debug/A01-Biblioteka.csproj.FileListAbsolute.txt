@@ -1,0 +1,10 @@
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\bin\Debug\A01-Biblioteka.exe.config
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\bin\Debug\A01-Biblioteka.exe
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\bin\Debug\A01-Biblioteka.pdb
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01-Biblioteka.csproj.AssemblyReference.cache
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01_Biblioteka.Form1.resources
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01_Biblioteka.Properties.Resources.resources
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01-Biblioteka.csproj.GenerateResource.cache
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01-Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01-Biblioteka.exe
+C:\Users\milena\Desktop\A01-Biblioteka\A01-Biblioteka\obj\Debug\A01-Biblioteka.pdb
